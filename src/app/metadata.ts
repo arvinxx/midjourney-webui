@@ -17,13 +17,6 @@ const metadata: Metadata = {
     title,
   },
   description,
-  icons: {
-    apple:
-      'https://registry.npmmirror.com/@lobehub/assets-favicons/latest/files/assets/apple-touch-icon.png',
-    icon: 'https://registry.npmmirror.com/@lobehub/assets-favicons/latest/files/assets/favicon-32x32.png',
-    shortcut:
-      'https://registry.npmmirror.com/@lobehub/assets-favicons/latest/files/assets/favicon.ico',
-  },
   manifest: '/manifest.json',
   metadataBase,
   openGraph: {
